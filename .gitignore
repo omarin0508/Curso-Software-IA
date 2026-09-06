@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+~$*
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.autosave
+
+.vscode/
+.idea/
